@@ -87,3 +87,4 @@ def generate_word(template):
 
 for i in range(10):
     print(generate_word("C%%VC"))
+
